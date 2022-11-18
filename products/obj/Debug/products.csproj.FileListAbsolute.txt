@@ -1,0 +1,8 @@
+E:\проекты\products\products\bin\Debug\products.exe.config
+E:\проекты\products\products\bin\Debug\products.exe
+E:\проекты\products\products\bin\Debug\products.pdb
+E:\проекты\products\products\obj\Debug\products.csproj.AssemblyReference.cache
+E:\проекты\products\products\obj\Debug\products.csproj.SuggestedBindingRedirects.cache
+E:\проекты\products\products\obj\Debug\products.csproj.CoreCompileInputs.cache
+E:\проекты\products\products\obj\Debug\products.exe
+E:\проекты\products\products\obj\Debug\products.pdb
